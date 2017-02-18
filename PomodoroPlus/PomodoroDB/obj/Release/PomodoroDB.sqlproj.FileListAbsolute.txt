@@ -1,0 +1,5 @@
+C:\R2\Products\PomodoroPlus\PomodoroDB\bin\Release\PomodoroDB.dacpac
+C:\R2\Products\PomodoroPlus\PomodoroDB\bin\Release\PomodoroDB.dll
+C:\R2\Products\PomodoroPlus\PomodoroDB\bin\Release\PomodoroDB.pdb
+C:\R2\Products\PomodoroPlus\PomodoroDB\obj\Release\PomodoroDB.dll
+C:\R2\Products\PomodoroPlus\PomodoroDB\obj\Release\PomodoroDB.pdb

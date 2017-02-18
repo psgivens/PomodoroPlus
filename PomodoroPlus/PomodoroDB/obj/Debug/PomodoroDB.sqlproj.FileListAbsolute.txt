@@ -1,0 +1,9 @@
+C:\R2\Products\PomodoroPlus\PomodoroDB\bin\Debug\PomodoroDB.dacpac
+C:\R2\Products\PomodoroPlus\PomodoroDB\bin\Debug\PomodoroDB.dll
+C:\R2\Products\PomodoroPlus\PomodoroDB\bin\Debug\PomodoroDB.pdb
+C:\R2\Products\PomodoroPlus\PomodoroDB\obj\Debug\Model.xml
+C:\R2\Products\PomodoroPlus\PomodoroDB\obj\Debug\refactor.xml
+C:\R2\Products\PomodoroPlus\PomodoroDB\obj\Debug\postdeploy.sql
+C:\R2\Products\PomodoroPlus\PomodoroDB\obj\Debug\predeploy.sql
+C:\R2\Products\PomodoroPlus\PomodoroDB\obj\Debug\PomodoroDB.dll
+C:\R2\Products\PomodoroPlus\PomodoroDB\obj\Debug\PomodoroDB.pdb

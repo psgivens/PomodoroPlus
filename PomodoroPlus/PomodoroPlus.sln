@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PomodoroPlus", "PomodoroPlus\PomodoroPlus.csproj", "{6927984D-ABB7-4837-A7C4-ED0CD5EB3707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PomodoroPlus.Data", "PomodoroPlus.Data\PomodoroPlus.Data.csproj", "{D872B0E5-BB16-4C91-AF30-2043FDB66A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PomodoroPlus.EntityFramework", "PomodoroPlus.EntityFramework\PomodoroPlus.EntityFramework.csproj", "{DAF9A170-41BF-40F8-A0E9-A923E6AB3B6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PomodoroPlusDetails", "PomodoroPlusDetails\PomodoroPlusDetails.csproj", "{5C3E677C-1E97-47E9-92D3-1FF76D149F32}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PomodoroDB", "PomodoroDB\PomodoroDB.sqlproj", "{3E961BB9-DAFF-4E25-A41C-27CC15FE182A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6927984D-ABB7-4837-A7C4-ED0CD5EB3707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6927984D-ABB7-4837-A7C4-ED0CD5EB3707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6927984D-ABB7-4837-A7C4-ED0CD5EB3707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6927984D-ABB7-4837-A7C4-ED0CD5EB3707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D872B0E5-BB16-4C91-AF30-2043FDB66A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D872B0E5-BB16-4C91-AF30-2043FDB66A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D872B0E5-BB16-4C91-AF30-2043FDB66A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D872B0E5-BB16-4C91-AF30-2043FDB66A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF9A170-41BF-40F8-A0E9-A923E6AB3B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF9A170-41BF-40F8-A0E9-A923E6AB3B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF9A170-41BF-40F8-A0E9-A923E6AB3B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF9A170-41BF-40F8-A0E9-A923E6AB3B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3E677C-1E97-47E9-92D3-1FF76D149F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3E677C-1E97-47E9-92D3-1FF76D149F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3E677C-1E97-47E9-92D3-1FF76D149F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3E677C-1E97-47E9-92D3-1FF76D149F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E961BB9-DAFF-4E25-A41C-27CC15FE182A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E961BB9-DAFF-4E25-A41C-27CC15FE182A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E961BB9-DAFF-4E25-A41C-27CC15FE182A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3E961BB9-DAFF-4E25-A41C-27CC15FE182A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E961BB9-DAFF-4E25-A41C-27CC15FE182A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E961BB9-DAFF-4E25-A41C-27CC15FE182A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

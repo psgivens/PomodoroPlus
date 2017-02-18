@@ -1,0 +1,10 @@
+C:\R2\Products\PomodoroPlus\PomodoroPlus.Data\bin\Debug\PomodoroPlus.Data.dll
+C:\R2\Products\PomodoroPlus\PomodoroPlus.Data\bin\Debug\PomodoroPlus.Data.pdb
+C:\R2\Products\PomodoroPlus\PomodoroPlus.Data\obj\Debug\PomodoroPlus.Data.dll
+C:\R2\Products\PomodoroPlus\PomodoroPlus.Data\obj\Debug\PomodoroPlus.Data.pdb
+C:\R2\Products\PomodoroPlus\PomodoroPlus.Data\obj\Debug\PomodoroPlus.Data.csprojResolveAssemblyReference.cache
+E:\oldC\R2\Products\PomodoroPlus\PomodoroPlus.Data\bin\Debug\PomodoroPlus.Data.dll
+E:\oldC\R2\Products\PomodoroPlus\PomodoroPlus.Data\bin\Debug\PomodoroPlus.Data.pdb
+E:\oldC\R2\Products\PomodoroPlus\PomodoroPlus.Data\obj\Debug\PomodoroPlus.Data.csprojResolveAssemblyReference.cache
+E:\oldC\R2\Products\PomodoroPlus\PomodoroPlus.Data\obj\Debug\PomodoroPlus.Data.dll
+E:\oldC\R2\Products\PomodoroPlus\PomodoroPlus.Data\obj\Debug\PomodoroPlus.Data.pdb
